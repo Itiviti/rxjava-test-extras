@@ -1,4 +1,4 @@
-package com.ullink.rx;
+package com.ullink.rxjava.testextras.scheduler;
 
 import rx.Scheduler;
 import rx.schedulers.Schedulers;

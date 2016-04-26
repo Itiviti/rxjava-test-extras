@@ -1,4 +1,4 @@
-package com.ullink.rx
+package com.ullink.rxjava.testextras.scheduler
 
 import rx.functions.Action0
 import spock.lang.Specification
